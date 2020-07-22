@@ -1,0 +1,6 @@
+numpy
+scipy
+z3-solver
+seaborn
+sklearn
+pandas
